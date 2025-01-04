@@ -1,6 +1,6 @@
 # DSA in C++ (Self-Learning)
 
-This repository contains implementations of various Data Structures and Algorithms (DSA) in C++ that I've learned and practiced through self-study.
+This repository contains implementations of various (DSA) in C++ that I've learned and practiced through self-study.
   
 ## Configuration
 - This Project is specifically configured for usage in Replit only.
